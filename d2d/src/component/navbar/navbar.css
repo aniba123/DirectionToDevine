@@ -1,0 +1,30 @@
+
+.navbar{
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    background-color: transparent;
+}
+.logo-div{
+    width: 30%;
+}
+.self-logo{
+    width: 50%;
+}
+.link{
+    width: 70%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.navbar a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 450;
+}
+.navbar a:hover{
+    color: beige;
+    transform: scale(1.1);
+}

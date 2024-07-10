@@ -1,0 +1,18 @@
+
+.books-b-img{
+    background-image: url('../../assets/booksdtd.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.overlay-books{
+    background-image: linear-gradient(rgba(0,0,0,.35),rgba(0,0,0,.35));
+    height: 100vh;
+}
+.books-h1{
+    margin: 150px;
+    color: antiquewhite;
+    font-size: 60px;
+    font-weight: 520;
+    text-align: center;
+}
